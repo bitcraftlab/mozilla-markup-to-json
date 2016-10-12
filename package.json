@@ -1,0 +1,21 @@
+{
+  "name": "mozilla-markup-to-json",
+  "version": "1.0.0",
+  "author": "@bitcraftlab",
+  "license": "WTFPL",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/bitcraftlab/mozilla-markup-to-json.git"
+  },
+  "scripts": {
+    "all": "node mark2json.js 3 1449638"
+  },
+  "devDependencies": {
+    "mkdirp": "^0.5.1",
+    "mysql": "^2.11.1"
+  },
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "mysql": "^2.11.1"
+  }
+}

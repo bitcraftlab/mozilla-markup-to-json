@@ -154,7 +154,7 @@ SET character_set_client = @saved_cs_client;
 	    { "x": 0, "y": 54, "z": 0, "time": 27, "speed": 0, "angle": 0, "significance": 5 },
 	    { "x": 0, "y": 55, "z": 0, "time": 61, "speed": 0.01, "angle": 0, "significance": 1 }
 	  ]
-	]
-},
- "extra_info": "Mark Up is about all of us and what we can accomplish together, on an open platform. "
+	],
+  "extra_info": "Mark Up is about all of us and what we can accomplish together, on an open platform. "
+}
 ```
